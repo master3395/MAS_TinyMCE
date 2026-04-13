@@ -2,6 +2,14 @@
 
 `MAS_TinyMCE` is a CMS Made Simple (`CMSMS`) TinyMCE editor module package maintained for `newstargeted.com`, including TinyMCE core assets, CMSMS integration logic, profile-based configuration, and custom external plugins.
 
+## Upstream credit
+
+This repository is a fork/derivative work of the original CMS Made Simple TinyMCE module project on CMSMS Forge:
+
+- Upstream project: [CMS Made Simple Forge - TinyMCE](https://dev.cmsmadesimple.org/projects/tinymce)
+
+Credit and thanks to the CMS Made Simple Foundation and TinyMCE module maintainers/contributors for the original project and long-term module work.
+
 ## What this repository contains
 
 - Full TinyMCE CMSMS module source (PHP module files, templates, language files, JS assets)
