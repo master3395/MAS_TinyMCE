@@ -1,2 +1,0 @@
-# MAS_TinyMCE
-MAS_TinyMCE
